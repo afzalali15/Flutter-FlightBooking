@@ -1,6 +1,12 @@
-# flutter_flight
+# Flutter Flight
 
-A new Flutter application.
+Flight booking application in Flutter
+
+
+
+<p align="center">
+  <img src="flight_booking.png" width="350" alt="flutter flight booking ui" title="Screenshot">
+</p>
 
 ## Getting Started
 
